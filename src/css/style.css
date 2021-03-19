@@ -1,0 +1,136 @@
+/** @format */
+
+body {
+    margin: 0;
+    font-family: "Comfortaa", cursive;
+    letter-spacing: 1px;
+    overflow-x: hidden;
+  }
+  
+  @font-face {
+    font-family: "Romantica Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("Romantica Regular"), url("Romantica-RpXpW.woff") format("woff");
+  }
+  
+  /*Header*/
+  .myheader {
+    background: rgba(14, 14, 14, 0.8);
+    position: absolute;
+    height: 100px;
+  
+    width: 100vw;
+  }
+  
+  .mybanner {
+    background: url("https://images.unsplash.com/photo-1551748629-08d916ed6682?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1029&q=80")
+      no-repeat 0px 0px;
+    background-size: auto;
+    background-size: cover;
+    min-height: 320px;
+  }
+  
+  .travel {
+    font-family: "Romantica Regular";
+    color: #fff !important;
+    text-align: center;
+    font-size: 4em;
+    font-weight: bold;
+    padding: 2em;
+  }
+  /*Header*/
+  
+  /*Footer*/
+  .myfooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000;
+    color: white;
+    text-align: center;
+  }
+  
+  .foot {
+    text-align: center;
+    padding: 1em;
+    color: #fff;
+  }
+  /*Footer*/
+  
+  /*My Headings*/
+  .mytitles {
+    height: 2em;
+    letter-spacing: 1px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    width: 100%;
+    padding-top: 1em;
+  }
+  
+  .mytitles::after {
+    background-color: #900c3f;
+    bottom: 0;
+    content: "";
+    display: block;
+    height: 3px;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, 0);
+    width: 100px;
+  }
+  /*My Headings*/
+  
+  /*Buttons*/
+  .mybutton {
+    background-color: #ffa500;
+    border: none;
+    color: white;
+    padding: 8px 42px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 5px 2px;
+    cursor: pointer;
+    letter-spacing: 1px;
+  }
+  
+  .mybutton:hover {
+    background-color: #c70039;
+    color: #fff;
+    transition: 1.5s;
+  }
+  /*Buttons*/
+  
+  /*Form*/
+  .fill {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    align-content: center;
+    color: #900c3f;
+  }
+  
+  .mylocation {
+    padding: 0.5em;
+    width: 100%;
+    letter-spacing: 1px;
+  }
+  .myform {
+    width: 100%;
+    padding: 0.8em;
+    letter-spacing: 1px;
+  }
+  
+  .einfo {
+    letter-spacing: 1px;
+    line-height: 1em;
+  }
+  /*Form*/
+  
