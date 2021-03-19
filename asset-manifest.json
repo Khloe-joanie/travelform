@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travelform/static/css/main.c819987f.chunk.css",
+    "main.js": "/travelform/static/js/main.7da9507c.chunk.js",
+    "main.js.map": "/travelform/static/js/main.7da9507c.chunk.js.map",
+    "runtime-main.js": "/travelform/static/js/runtime-main.7ef7cd1c.js",
+    "runtime-main.js.map": "/travelform/static/js/runtime-main.7ef7cd1c.js.map",
+    "static/js/2.93596d33.chunk.js": "/travelform/static/js/2.93596d33.chunk.js",
+    "static/js/2.93596d33.chunk.js.map": "/travelform/static/js/2.93596d33.chunk.js.map",
+    "static/js/3.87571c93.chunk.js": "/travelform/static/js/3.87571c93.chunk.js",
+    "static/js/3.87571c93.chunk.js.map": "/travelform/static/js/3.87571c93.chunk.js.map",
+    "index.html": "/travelform/index.html",
+    "static/css/main.c819987f.chunk.css.map": "/travelform/static/css/main.c819987f.chunk.css.map",
+    "static/js/2.93596d33.chunk.js.LICENSE.txt": "/travelform/static/js/2.93596d33.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/travelform/static/media/Romantica-RpXpW.3cd8e213.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ef7cd1c.js",
+    "static/js/2.93596d33.chunk.js",
+    "static/css/main.c819987f.chunk.css",
+    "static/js/main.7da9507c.chunk.js"
+  ]
+}
